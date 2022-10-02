@@ -31,3 +31,25 @@ img {
   border-color: black;
   border-style: groove;
 }
+
+@media screen  and (max-width: 320px) {
+
+  img {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 250px;
+    border-color: black;
+    border-style: groove;
+  }
+
+  #number-one{
+    width: 10rem;
+    height: 25px;
+  }
+
+  #number-two{
+    width: 10rem;
+    height: 25px;
+  }
+  
+}
