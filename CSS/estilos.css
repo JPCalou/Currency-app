@@ -22,6 +22,7 @@ body {
 }
 
 #particles-js{
+  background: mediumseagreen;
   height: 100vh;
   width: 100%;
   position: fixed;
@@ -41,7 +42,7 @@ body {
   border-style: groove;
   border-color: black;
   box-shadow: 0 0 5px 2px;
-  background-color: aquamarine;
+  background-color: darkgoldenrod;
   font-weight: 600;
 }
 
